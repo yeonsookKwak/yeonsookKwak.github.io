@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Data scientist, Analyst</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a student studying for my master's in Swiss Institute of Artificial Intelligence of Swiss which is online stem program and I lived in Seoul, Korea. I took math&stat courses, machine learning, deep learning, computational science, and reinforcement learning, which gave me a logic-based thinking structure. And I am supposed to graduate this semptember, 2024. My master thesis focuses on state detection on likelihoods especially wearable device records. Especially My master work centered on developing and rigorously testing statistical methods. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I have worked in both a range of animal disease and interior arrangements, including clustering methods, bayesian models, early alert prediction on time-series data, high-dimensional data, and NLP usage for news report alert and interior platform categorizing. For more details on my current and past journey, please visit my [projects](/projects/) page.
