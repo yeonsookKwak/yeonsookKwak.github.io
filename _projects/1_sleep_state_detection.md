@@ -13,10 +13,17 @@ This is a master thesis, in the Department of Datascience and Business, Swiss In
 <!-- ![process diagram]({{ "/assets/img/model_process_diagram.png" | relative_url }})
 
 *Figure 1: Process diagram of the model* -->
-<figure style="text-align: center;">
-  <img src="{{ '/assets/img/model_process_diagram.png' | relative_url }}" alt="Process diagram">
+<!-- <figure style="text-align: center;">
+  <img src="{{ '/assets/img/model_process_diagram.png' | relative_url }}" alt="Process diagram" class="responsive-img">
   <figcaption style="font-style: italic; color: #555;">Figure 1: Process diagram of the model.</figcaption>
-</figure>
+</figure> -->
+
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/model_process_diagram.png">
+</div>
+<div class="col three caption">
+    Figure 1: Process diagram of the model.
+</div>
 
 #### Generalized approach
 <ul>
