@@ -7,7 +7,7 @@ importance: 1
 category: methodology & application
 ---
 
-This is a master thesis, in the Department of Datascience and Business, Swiss Institute of Artificial Intelligence.
+This is a master thesis, in the Department of Datascience and Business, Swiss Institute of Artificial Intelligence. (I won the best paper award that year.)
 
 <!-- ![process diagram](assets/img/model_process_diagram.png) -->
 <!-- ![process diagram]({{ "/assets/img/model_process_diagram.png" | relative_url }})
@@ -32,4 +32,4 @@ This is a master thesis, in the Department of Datascience and Business, Swiss In
 </ul>
 
 <hr>
-Based on SIAI's thesis research, the Data Science Management Society's Institute for Research Series Articles 'Detecting Sleep Status (Researcher Yeonsook Kwak)'. [article](https://kr.giai.org/research_category/giaikr-paper-story/)
+Based on SIAI's thesis research, the Data Science Management Society's Institute for Research Series Articles 'Detecting Sleep Status (Researcher Yeonsook Kwak)'. [article](https://giai.org/jmds/2024/sleep-state-detection-method-by-data-generated-likelihood)
